@@ -1,0 +1,3 @@
+dbUserName=root
+dbPassWord=123456
+origDB=project1
